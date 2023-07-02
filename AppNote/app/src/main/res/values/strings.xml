@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">AppNote</string>
+
+
+    <string name="create_note_suggest">Cree Notas para que Aparezcan</string>
+
+    <string name="create_note">Nota Creada</string>
+    <string name="save_note">Nota Guardada</string>
+    <string name="delete_note">Eliminar Nota</string>
+    <string name="note_deleted">Nota Eliminada</string>
+    <string name="pop_up">Pop Up</string>
+
+    <string name="note_title">Titulo</string>
+    <string name="note_content">Contenido de Nota</string>
+</resources>

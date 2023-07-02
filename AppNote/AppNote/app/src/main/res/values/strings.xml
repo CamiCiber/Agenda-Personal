@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">AppNote</string>
+
+
+    <string name="create_note_suggest">There are no any notes here</string>
+
+    <string name="create_note">Create note</string>
+    <string name="save_note">Save note</string>
+    <string name="delete_note">Delete note</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="pop_up">Pop Up</string>
+
+    <string name="note_title">Title</string>
+    <string name="note_content">Note content</string>
+</resources>
